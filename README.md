@@ -1,7 +1,7 @@
 # Dyson-DC33-Vacuum-cleaner-refurbishment
 Engineers' log and technical drawings for this refurbishment project. 
 
-Well, how not to repair a vacumm cleaner? You remember those BBC documentries where an engineer is called to an old dears' house and changes everything, orders way too many spare parts, it may as well be a new vacumm cleaner, well this is what I did here, opps. I was very scared by the amount of smoke, smell of burning rubber and exposed wire form the worn out flex. But I Ended up changing the main motor! At a very high cost. All that required was a cleaning of the motor with 
+Well, how not to repair a vacumm cleaner? You remember those BBC documentries where an engineer is called to an old dears' house and changes everything, orders way too many spare parts, it may as well be a new vacumm cleaner, well this is what I did here, opps. I was very scared by the amount of smoke, smell of burning rubber and exposed wire form the worn out flex. So much so that I ended up changing the main motor! At a very high cost. All that required was a cleaning of the motor with 
 
 Air dusters (Air in a spray can)
 Contact cleaner
